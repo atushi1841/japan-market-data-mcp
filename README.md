@@ -27,7 +27,7 @@ Most AI agents have **zero access** to these data sources. This project closes t
 npm install -g @atushi1841/japan-market-mcp
 
 # Or use Apify directly (no install)
-# https://apify.com/atushi1841/mercari-japan-search-scraper
+# https://apify.com/fruitful_quintessence/mercari-japan-search-scraper
 ```
 
 See [examples/QUICKSTART.md](examples/QUICKSTART.md) for Python, Node.js, and MCP setup.
