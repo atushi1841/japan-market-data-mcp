@@ -1,7 +1,7 @@
 # Japan Market Data — Apify Store Actor Directory
 
 Production-grade Apify Store actors powering Japanese e-commerce and market data collection.
-Built by [Kensho](https://github.com/atushi1841/kensho) — automated Japanese mystery-box data pipeline with 38-day streak.
+Backed by a production data pipeline with a 38-day collection streak.
 
 **Total actors: 55**  |  **Lifetime runs: 4,894**  |  **All free to run (PPE)**
 
@@ -157,6 +157,6 @@ MIT
 
 ## About
 
-Built as part of the [Kensho](https://github.com/atushi1841/kensho) project — automated Japanese prize-post data collection and analysis. All actors are pay-per-use (PPE) with pricing shown per run in the Apify Store.
+Built with an automated Japanese market data collection and analysis pipeline. All actors are pay-per-use (PPE) with pricing shown per run in the Apify Store.
 
 [Apify Store →](https://apify.com/fruitful_quintessence) · [MCP Registry →](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.atushi1841) · [mcp.so →](https://mcp.so/server/io.github.atushi1841/japan-market-data-mcp)
